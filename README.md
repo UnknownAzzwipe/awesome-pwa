@@ -23,6 +23,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Conferences](#conferences)
 * [Categories](#categories)
 
+
+
 ## App Directories
 
 * [appsco.pe](https://appsco.pe)
@@ -31,6 +33,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Apps
 
 ## Categories
+
+  ## Unsorted
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [2fA](https://2fa.crossphoton.tech): Extended 2FA
