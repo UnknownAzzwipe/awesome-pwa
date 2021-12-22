@@ -27,6 +27,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Categories](#categories)
 
 ## Categories Table of Contents 
+ * [Unsorted](#unsorted) 
 
 ## App Directories
 
