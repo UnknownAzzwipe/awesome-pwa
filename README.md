@@ -10,6 +10,9 @@
 
 _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
+## Notes
+* This fork is maintained by an amateur. I am hoping to develop skills in development by looking over experienced programmers code, and possibly gaining some of that experience in my time developing those skills. 
+
 ## Table of contents
 
 * [App Directories](#app-directories)
