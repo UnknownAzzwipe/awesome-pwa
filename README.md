@@ -23,7 +23,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Conferences](#conferences)
 * [Categories](#categories)
 
-## Categories Table of
+## Categories Table of 
 
 ## App Directories
 
