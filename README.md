@@ -30,11 +30,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
  * [Unsorted](#unsorted) 
  * [Utilities](#utilities)
  * [Games](#games)
- * [Graphics & Pictures](#graphics-and-pictures)
+ * [Graphics & Pictures](#graphics-&-pictures)
  * [Internet](#internet)
  * [Education](#education)  
  * [Accessibility](#accessibility)
  * [Development](#development)
+ * [Music & Video](#music-&-video)
 
 ## App Directories
 
@@ -52,6 +53,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
     * ## Internet
     * ## Unsorted 
     * ## Accessibility 
+    * ## Music & Video
     * ## Utilities
      * [2fA](https://2fa.crossphoton.tech): Extended 2FA 
     
