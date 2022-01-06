@@ -37,6 +37,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
  * [Development](#development)
  * [Music & Video](#music-&-video)
  * [Office](#office)
+ * [Security](#security)
 
 ## App Directories
 
@@ -56,6 +57,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
     * ## Accessibility 
     * ## Music & Video
     * ## Office
+    * ## Security
     * ## Utilities
      * [2fA](https://2fa.crossphoton.tech): Extended 2FA 
     
