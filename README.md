@@ -30,6 +30,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
  * [Unsorted](#unsorted) 
  * [Utilities](#utilities)
  * [Games](#games)
+ * [Graphics & Pictures](#graphics-and-pictures)
  * [Education](#education)  
  * [Accessibility](#accessibility)
  * [Development](#development)
@@ -44,7 +45,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
   * ## Categories
 
     * ## Development
+    
     * ## Games
+    * ## Graphics & Pictures
     * ## Unsorted 
     * ## Accessibility 
     * ## Utilities
