@@ -31,6 +31,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
  * [Utilities](#utilities)
  * [Document Editing](#document-editing) 
  * [Educational](#educational) 
+ * [Accessibility](#accessibility)
 
 ## App Directories
 
@@ -42,10 +43,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
   * ## Categories
 
     * ## Unsorted 
+    * ## Accessibility 
     * ## Utilities
      * [2fA](https://2fa.crossphoton.tech): Extended 2FA 
     * ## Document Editing
-    * ## Educational
+    * ## Educational   
      * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading. 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [abc.xyz](https://abc.xyz): Alphabet website
