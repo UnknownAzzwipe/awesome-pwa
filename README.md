@@ -32,6 +32,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
  * [Document Editing](#document-editing) 
  * [Educational](#educational) 
  * [Accessibility](#accessibility)
+ * [Development](#development)
 
 ## App Directories
 
@@ -42,6 +43,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
   * ## Categories
 
+    * ## Development
     * ## Unsorted 
     * ## Accessibility 
     * ## Utilities
