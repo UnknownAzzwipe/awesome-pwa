@@ -29,7 +29,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Categories Table of Contents 
  * [Unsorted](#unsorted) 
  * [Utilities](#utilities)
- 
+ * [Games](#games)
  * [Education](#education)  
  * [Accessibility](#accessibility)
  * [Development](#development)
@@ -44,6 +44,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
   * ## Categories
 
     * ## Development
+    * ## Games
     * ## Unsorted 
     * ## Accessibility 
     * ## Utilities
