@@ -46,6 +46,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
      * [2fA](https://2fa.crossphoton.tech): Extended 2FA 
     * ## Document Editing
     * ## Educational
+     * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading. 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Air Horner](https://airhorner.com/): Air horn sound.
@@ -60,7 +61,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Bolster](https://bolster.pro/): Bolster
-* [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* 
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Care Cards](https://carecards.io): Care Cards
